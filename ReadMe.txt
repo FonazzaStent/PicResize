@@ -1,4 +1,4 @@
-PicResize 1.0.2
+PicResize 1.0.3
 A simple image resizer.
 Instructions:
 - Place a shortcut to the program on your desktop or in a folder
